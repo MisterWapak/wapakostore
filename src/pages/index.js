@@ -33,7 +33,7 @@ const IndexPage = () => {
         image={'/banner1.png'}
         title={'Wapakostore'}
         subtitle={'Des récompenses bordéliques à des prix pathétiques !'}
-        ctaText={'shop now'}
+        ctaText={'Toutes les Récompenses'}
         ctaAction={goToShop}
       />
 
