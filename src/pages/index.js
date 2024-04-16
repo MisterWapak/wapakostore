@@ -32,7 +32,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'Wapakostore'}
-        subtitle={'Discover Autumn Winter 2021'}
+        subtitle={'Des récompenses bordéliques à des prix pathétiques !'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
